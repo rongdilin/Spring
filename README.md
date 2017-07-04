@@ -14,3 +14,9 @@ File:
 
 web-customer-tracker:
 Full working Spring MVC and Hibernate application which connects to a database.
+
+spring-demo-aop:
+AOP:Aspect-Oriented Programming demo
+
+spring-demo-aop-declarations:
+Pointcut Declaration
